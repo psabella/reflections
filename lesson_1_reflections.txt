@@ -1,0 +1,52 @@
+How did viewing a diff between two versions of a file help you 
+see the bug that was introduced?
+
+Viewing the diff highlights every change since the last version.
+If the last version was working correctly, then the bug must be 
+within one of the highlighted changes. This saves time from having 
+to search the entire filefor the bug.
+
+How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+This can help you track any changes from the beginning of the project.
+You will never lose any work. If more than one programmer is working 
+on the project, you could see who updated what when.
+
+What do you think are the pros and cons of manually choosing 
+when to create a commit, like you do in Git, vs having versions 
+automatically saved, like Google Docs does?
+
+Manually choosing to create a commit means each commit will contain 
+one logical unit. With autosave, this could save in the middle of
+a thought/line, meaning the program may not even compile, and the
+commit record is less useful because it is not clear how much it
+contains in terms of the change being worked on. On the other hand,
+if you forget to save, the autosave is a safety measure.
+
+Why do you think some version control systems, like Git, allow 
+saving multiple files in one commit, while others, like Google 
+Docs, treat each file separately?
+
+If changes to multiple files are related, it is useful to commit
+them all at once and the commit record will note the changes 
+across all the files.
+
+How can you use the commands git log and git diff to view the history 
+of files?
+
+git log shows all of the commits, the ID, date-time and comments.
+git diff allows you to compare two different versions and shows
+the exact changes between the two (insertions/deletions, etc.)
+
+How might using version control make you more confident to make 
+changes that could break something?
+
+You can always revert back to a previous version, or compare with
+previous versions and find exactly when bugs are introduced.
+
+Now that you have your workspace set up, what do you want to 
+try using Git for?
+
+Switching back and forth between versions. Shortcut to go back 
+to most recent version?
