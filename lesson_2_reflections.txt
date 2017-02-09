@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You initiate tracking changes with Git. There is no intial commit.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+Staging can include files from the working directory on deck for
+commit. Repository would then be tracking changes to those files.
