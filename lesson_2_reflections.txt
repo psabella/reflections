@@ -19,3 +19,9 @@ your history organized? How would branches help?
 If you want to keep a certain version of the project, but then use
 another version to play around with or create a slightly different
 version; you can easily switch between versions.
+
+How do the diagrams help you visualize the branch structure?
+
+You can see the trail of commits for each branch, as well as branchless
+commits which do not have a parent branch. You have the option to
+create a branch for these commits if you want to be able to track them.
