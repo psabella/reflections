@@ -25,3 +25,10 @@ How do the diagrams help you visualize the branch structure?
 You can see the trail of commits for each branch, as well as branchless
 commits which do not have a parent branch. You have the option to
 create a branch for these commits if you want to be able to track them.
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+This merges all the changes in one branch with the changes in
+the other. The commits are organized by timestamp. Now this is
+one branch, and so represented in the diagram.
