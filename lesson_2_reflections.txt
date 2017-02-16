@@ -32,3 +32,10 @@ represent it in the diagram the way we do?
 This merges all the changes in one branch with the changes in
 the other. The commits are organized by timestamp. Now this is
 one branch, and so represented in the diagram.
+
+What are the pros and cons of Git’s automatic merging vs. always
+doing merges manually?
+
+For the most part Git can compare versions automatically, but is
+careful about making assumptions. It is more time-consuming to
+manually merge, but better to have the option.
