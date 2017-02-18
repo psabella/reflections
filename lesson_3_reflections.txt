@@ -12,4 +12,12 @@ changing. It's easier to work on one unit of code before
 updating everything - easier for collaboration on
 different parts of the project.
 
+Describe the differences between forks, clones, and 
+branches. When would you use one instead of another?
+
+Fork is when you want to copy someone else's GitHub
+repository to your GitHub. Clone is when you want to
+copy a repository from GitHub to your local machine, 
+or copy a repository from local to local. Branch would
+be creating a branch within the repository.
 
