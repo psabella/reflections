@@ -37,5 +37,12 @@ would be hard to schedule and waste a lot of time. The
 GitHub pull requests can be reviewed, commented, updated
 at any time.
 
+When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each 
+approach have?
 
+Use a separate branch if you are not sure about the
+changes and want to have them reviewed. If you're the 
+owner of a project, you may just make changes in master
+which is much easier with less steps.
 
