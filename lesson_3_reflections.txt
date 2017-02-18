@@ -21,3 +21,9 @@ copy a repository from GitHub to your local machine,
 or copy a repository from local to local. Branch would
 be creating a branch within the repository.
 
+What is the benefit of having a copy of the last known state 
+of the remote stored locally?
+
+You can see all the most recent changes offline while you still work 
+on your local copy. Then when you are ready you can merge remote with
+local.
