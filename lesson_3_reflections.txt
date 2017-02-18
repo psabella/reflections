@@ -24,6 +24,18 @@ be creating a branch within the repository.
 What is the benefit of having a copy of the last known state 
 of the remote stored locally?
 
-You can see all the most recent changes offline while you still work 
-on your local copy. Then when you are ready you can merge remote with
-local.
+You can see all the most recent changes offline while
+you still work on your local copy. Then when you are 
+ready you can merge remote with local.
+
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+
+You would have to send or post your code somewhere else,
+or even speak directly with the other collaborators which
+would be hard to schedule and waste a lot of time. The 
+GitHub pull requests can be reviewed, commented, updated
+at any time.
+
+
+
